@@ -1,0 +1,5 @@
+C:\Users\Sururi M Shofyan\Documents\GitHub\FirstRepo\FirstRepo\FirstRepo\bin\FirstRepo.dll
+C:\Users\Sururi M Shofyan\Documents\GitHub\FirstRepo\FirstRepo\FirstRepo\bin\FirstRepo.pdb
+C:\Users\Sururi M Shofyan\Documents\GitHub\FirstRepo\FirstRepo\FirstRepo\obj\Debug\FirstRepo.csprojResolveAssemblyReference.cache
+C:\Users\Sururi M Shofyan\Documents\GitHub\FirstRepo\FirstRepo\FirstRepo\obj\Debug\FirstRepo.dll
+C:\Users\Sururi M Shofyan\Documents\GitHub\FirstRepo\FirstRepo\FirstRepo\obj\Debug\FirstRepo.pdb
